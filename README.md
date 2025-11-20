@@ -27,3 +27,8 @@ agent("weather in Delhi")
 - Python
 - JSON-based memory
 - Google Colab
+
+
+---
+## Interface
+<img width="1360" height="674" alt="image" src="https://github.com/user-attachments/assets/dc75ca30-267e-4175-9e4b-0b223a4f20db" />
